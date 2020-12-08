@@ -1,0 +1,62 @@
+canvas{
+  border-style: solid;
+  background-color: white;
+
+}
+
+body {
+  background-color: gray;
+}
+
+.colorOption {
+  width: 20px;
+  height: 20px;
+  
+}
+
+#red {
+  background-color: red;
+}
+#orange {
+  background-color: orange;
+}
+
+#blue {
+  background-color: blue;
+ }
+
+#green {
+  background-color: green;
+}
+
+#yellow {
+  background-color: yellow;
+}
+
+#lime {
+  background-color: lime;
+}
+
+#purple {
+  background-color: purple;
+}
+
+#pink {
+  background-color: pink;
+}
+#aqua {
+  background-color: aqua;
+}
+#brown {
+  background-color: brown;
+}
+#grey{
+  background-color: grey:
+}
+#white{
+  background-color: white
+}
+
+#black{
+  background-color: black;
+}
